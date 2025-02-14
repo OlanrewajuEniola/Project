@@ -1,2 +1,3 @@
 Jesus is Lord!
 This is the 2nd line
+I think I understand how it works - I'll go back to the CLI, add the file, commit, and verify it and see if it works

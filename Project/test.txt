@@ -1,3 +1,4 @@
 Jesus is Lord!
 This is the 2nd line
 I understand how it works. I'll go back to the CLI, add the file, commit, verify it, and see if it works.
+No, that's wrong - I think it's just to run "git pull origin master"

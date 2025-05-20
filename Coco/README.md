@@ -59,11 +59,6 @@ coco/
 - [x] WAR deployment verified via browser and Tomcat Manager
 - [x] Source code hosted publicly on GitHub
 
----
-
-## 📸 Screenshot (Optional)
-
-*(You can add a screenshot showing your Jenkins pipeline or Tomcat deployment page if you have one.)*
 
 ---
 
